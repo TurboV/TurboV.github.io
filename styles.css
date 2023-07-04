@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+body {
+    background-color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1c1c1c;
+    padding: 20px;
+    list-style-type: none; 
+    
+}
+
+a {
+    font-family: "Agdasima";
+    color: white;
+    text-decoration: none;
+   
+}
+
+p {
+    font-family: "Agdasima";
+    color: white;
+}
+
+a:hover {
+    font-family: "Agdasima";
+    color: #a9bfff;
+    text-decoration: none;
+}
