@@ -24,6 +24,8 @@ a {
 p {
     font-family: "Agdasima";
     color: white;
+    font-size: 20px;
+
 }
 
 a:hover {
@@ -40,11 +42,26 @@ a:hover {
     width: 25%;
   }
   
-.para {
-    font-size: 20px;
+.pindex {
     display: block;
     margin-left: 250px;
     margin-right: 250px;
     text-align: center;
     margin-top: 50px;
+}
+
+.psupport {
+    display: block;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.support {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 30%;
 }
